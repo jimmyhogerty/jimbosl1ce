@@ -1,7 +1,7 @@
 
-![tumblr_ny6xroMtQa1tchrkco1_500](https://user-images.githubusercontent.com/43115008/158888962-4dd52a64-4ab0-4b9d-bcd3-7f301016150c.gif)
+<img src="https://user-images.githubusercontent.com/43115008/158889286-5052fbd6-23a4-477c-a8aa-b1ccae2b1e27.gif" width="250" height="150"/>
   
-👋 Hello! [I am](https://jimmyhogerty.com) a full-stack software engineer living in San Francisco, California.
+👋  Hello! [I am](https://jimmyhogerty.com) a full-stack software engineer living in San Francisco, California.
 
 ```
 const technologies = {
