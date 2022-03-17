@@ -6,10 +6,8 @@
 ```
 const technologies = {
   frontend: ["jQuery", "React", "React Native"],
-  backend: ["Node", "Python"],
-  databases: ["SQL", "MongoDB", "PostgreSQL"],
-  testing: ["Jest", "Mocha", "Chai", "Loader.io", "K6", "Postman", "Selenium", "BeautifulSoup4"],
-  deployment: ["Docker", "Nginx", "AWS"],
+  backend: ["Node", "Python", "SQL", "MongoDB", "PostgreSQL", "Docker", "Nginx", "AWS"],
+  testing: ["Jest", "Mocha", "Chai", "Loader.io", "K6", "Postman", "Selenium"],
   developerTools: ["Git", "NPM", "Webpack", "Babel", "Agile methodologies", "TDD"]
 }
 ```
