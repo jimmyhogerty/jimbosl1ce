@@ -1,7 +1,15 @@
-![ed7747ca797333eb6447917b803af306](https://user-images.githubusercontent.com/43115008/158884730-f9935fbb-048c-48f9-b3ff-321ae07ea7fd.gif)
 
+![tumblr_ny6xroMtQa1tchrkco1_500](https://user-images.githubusercontent.com/43115008/158888962-4dd52a64-4ab0-4b9d-bcd3-7f301016150c.gif)
+  
+👋 Hello! [I am](https://jimmyhogerty.com) a full-stack software engineer living in San Francisco, California.
 
-
-[I am](https://jimmyhogerty.com) a full-stack software engineer living in San Francisco, California.
-
-Thanks for checking my Github out!
+```
+const technologies = {
+  frontend: ["jQuery", "React", "React Native"],
+  backend: ["Node", "Python"],
+  databases: ["SQL", "MongoDB", "PostgreSQL"],
+  testing: ["Jest", "Mocha", "Chai", "Loader.io", "K6", "Postman", "Selenium", "BeautifulSoup4"],
+  deployment: ["Docker", "Nginx", "AWS"],
+  developerTools: ["Git", "NPM", "Webpack", "Babel", "Agile methodologies", "TDD"]
+}
+```
