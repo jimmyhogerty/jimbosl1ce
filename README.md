@@ -6,7 +6,7 @@
 ```
 const technologies = {
   frontend: ["jQuery", "React", "React Native"],
-  backend: ["Node", "Python", "SQL", "MongoDB", "PostgreSQL", "Docker", "Nginx", "AWS"],
+  backend: ["Node", "Python", "MongoDB", "PostgreSQL", "Docker", "Nginx", "AWS"],
   testing: ["Jest", "Mocha", "Chai", "Loader.io", "K6", "Postman", "Selenium"],
   developerTools: ["Git", "NPM", "Webpack", "Babel", "Agile methodologies", "TDD"]
 }
