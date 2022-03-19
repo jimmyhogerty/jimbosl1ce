@@ -3,6 +3,10 @@
   
 👋  Hello! [I am](https://jimmyhogerty.com) a full-stack software engineer living in San Francisco, California.
 
+👨‍💻 Feel free to check out projects below!
+
+🏋️‍♀️ Currently working on [CoffeeTime](https://github.com/jimbosl1ce/CoffeeTime).
+
 ```
 const technologies = {
   frontend: ["jQuery", "React", "React Native"],
