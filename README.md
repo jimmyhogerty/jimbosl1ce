@@ -3,8 +3,12 @@
   
 Hello! Thanks for stopping by.  
 
-🌉 Currently living in: San Francisco, California.
-📄 Portfolio site: [jimmyhogerty.com](https://jimmyhogerty.com)
+🌉 Currently living in San Francisco, California.
+
+📄 [Portfolio](https://jimmyhogerty.com)
+
+💼 [Linkedin](https://www.linkedin.com/in/jimmyhogerty/)
+
 👨‍💻 Currently working on [CoffeeTime](https://github.com/jimbosl1ce/CoffeeTime).
 
 ```
