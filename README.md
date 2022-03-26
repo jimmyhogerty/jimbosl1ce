@@ -1,11 +1,11 @@
 
 <img src="https://user-images.githubusercontent.com/43115008/158889286-5052fbd6-23a4-477c-a8aa-b1ccae2b1e27.gif" width="250" height="150"/>
   
-👋  Hello! [I am](https://jimmyhogerty.com) a full-stack software engineer living in San Francisco, California.
+Hello! Thanks for stopping by.  
 
-👨‍💻 Feel free to check out projects below!
-
-🏋️‍♀️ Currently working on [CoffeeTime](https://github.com/jimbosl1ce/CoffeeTime).
+🌉 Currently living in: San Francisco, California.
+📄 Portfolio site: [jimmyhogerty.com](https://jimmyhogerty.com)
+👨‍💻 Currently working on [CoffeeTime](https://github.com/jimbosl1ce/CoffeeTime).
 
 ```
 const technologies = {
